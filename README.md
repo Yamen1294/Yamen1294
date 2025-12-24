@@ -10,7 +10,7 @@
 3-can make anything with it<br>
 ---------------------------------------------------<br>
 🐧Professional Linux user(Arch,Nixos)<br>
-📡I want to graduate from Engineering Collage<br>
+💻Currently I'm computer science student in Alex university<br>
 💡What I'm doing now is creating Discord Bots and Django Backend with (MySQL,MongoDB)<br>
 
 
