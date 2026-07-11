@@ -1,107 +1,100 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:1A1A1A&text=Yamen%20Ehab&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Reverse%20Engineer%20|%20Python%20Developer%20|%20Linux%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:161B22&text=Yamen&fontSize=75&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20•%20Reverse%20Engineering%20•%20Linux&descAlignY=60"/>
 
-# ⚡ Building Software From High-Level Ideas Down To Machine Code
-
-<p>
-
-Computer Science Student • Python Developer • Reverse Engineering Enthusiast
-
-Linux • Malware Analysis • Automation • Low-Level Programming
-
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Python+Developer;Reverse+Engineering;Malware+Analysis;Linux+Power+User;Rust+Learner;Building+Bots+%26+Desktop+Applications"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Python+Developer;Reverse+Engineering;Malware+Analysis;Linux+Enthusiast;Rust+Learner;Building+Tools+%26+Automation)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About
 
-```cpp
-class Yamen
-{
-public:
+```text
+> whoami
 
-    string location = "Egypt";
+Name      :: Yamen
+Location  :: Egypt 🇪🇬
+Major     :: Computer Science
 
-    string major = "Computer Science";
+Editor    :: Neovim
+OS        :: Arch Linux + Hyprland
 
-    vector<string> interests =
-    {
-        "Reverse Engineering",
-        "Malware Analysis",
-        "Python Development",
-        "Automation",
-        "Operating Systems",
-        "Low-Level Programming",
-        "Cryptography"
-    };
+Focus
+------
+• Reverse Engineering
+• Malware Analysis
+• Windows Internals
+• Python Development
+• Linux
+• Automation
 
-    vector<string> languages =
-    {
-        "Python",
-        "C",
-        "Rust",
-        "C#"
-    };
-
-    string editor = "Neovim";
-    string os = "Arch Linux";
-};
+Currently Learning
+------------------
+• Rust
+• C
+• x86/x64 Assembly
+• WinAPI
 ```
 
 ---
 
-# 🚀 Current Focus
-
-- Reverse Engineering
-- Malware Analysis
-- Rust
-- Windows Internals
-- x64 Assembly
-- Python Desktop Applications
-- Telegram Bots
-- Discord Bots
-- Django & FastAPI
-- Binary Analysis
-
----
-
-# ⚙ Tech Stack
+# Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,rust,c,cs,bash,linux,arch,django,fastapi,git,github,sqlite,postgres,mongodb,redis,docker,vscode,neovim,cmake,regex"/>
+<img src="https://skillicons.dev/icons?i=python,rust,c,cs,bash"/>
 
 </div>
 
 ---
 
-# 🛠 Tools I Use
+# Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github,git,linux,arch,neovim,docker"/>
-
-<br><br>
-
-| Reverse Engineering | Development |
-|---------------------|-------------|
-| Ghidra | Python |
-| x64dbg | Rust |
-| IDA Free | C |
-| Cheat Engine | C# |
-| PE-bear | FastAPI |
-| Detect It Easy | Django |
+<img src="https://skillicons.dev/icons?i=linux,arch,git,github,django,fastapi,docker,mongodb,postgres,sqlite,redis,cmake,regex"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# Reverse Engineering Toolkit
+
+<div align="center">
+
+| Analysis | Debugging | Development |
+|-----------|-----------|-------------|
+| Ghidra | x64dbg | Python |
+| IDA Free | Cheat Engine | Rust |
+| Detect It Easy | WinDbg | C |
+| PE-bear | Binary Ninja *(Learning)* | C# |
+
+</div>
+
+---
+
+# Current Projects
+
+```text
+📦 Corvus
+ └── Reverse Engineering Toolkit written in Python
+
+🤖 Telegram Bots
+ └── Automation • Downloaders • Utilities
+
+🖥 Desktop Applications
+ └── PyQt6
+
+🔬 Reverse Engineering Labs
+ └── Malware Analysis
+ └── Crackmes
+ └── Windows Internals
+```
+
+---
+
+# GitHub Stats
 
 <div align="center">
 
@@ -109,13 +102,17 @@ public:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamen1294&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Yamen1294&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
 
-# 📈 Activity Graph
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yamen1294&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -125,61 +122,49 @@ public:
 
 ---
 
-# 🐍 Contribution Snake
+# Development Environment
+
+```yaml
+OS: Arch Linux
+WM: Hyprland
+Shell: Bash
+Editor: Neovim
+Language: Python
+Terminal: Kitty
+```
+
+---
+
+# Quote
+
+> "Understanding binaries is understanding software."
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yamen1294/Yamen1294/output/github-contribution-grid-snake-dark.svg"/>
+![](https://komarev.com/ghpvc/?username=Yamen1294&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-# 📚 Learning Roadmap
-
-```text
-Python            ████████████████████ 100%
-
-Linux             ██████████████████░░ 90%
-
-Git               █████████████████░░░ 85%
-
-Reverse Engineering
-                 ██████████████░░░░░░ 70%
-
-Rust              ████████░░░░░░░░░░░ 40%
-
-Windows Internals ██████░░░░░░░░░░░░░ 30%
-
-Malware Analysis  ██████░░░░░░░░░░░░░ 30%
-```
-
----
-
-# 💭 Philosophy
-
-> "The closer you get to the machine, the more you understand the software."
-
----
-
-# 🌐 Connect
-
 <div align="center">
-
-<a href="https://discord.com/users/YOUR_ID">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Yamen1294">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:1A1A1A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:161B22,100:0D1117"/>
 
 </div>
