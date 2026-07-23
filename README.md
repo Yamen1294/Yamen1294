@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:16213e,100:0f3460&height=250&section=header&text=YAMEN%20%2F%2F%20CORVUS&fontSize=55&fontColor=00ff9c&fontAlignY=35&desc=binary%20whisperer%20%7C%20offensive%20security&descAlignY=55&descSize=20&descColor=8be9fd&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:16213e,100:0f3460&height=250&section=header&text=YAMEN&fontSize=55&fontColor=00ff9c&fontAlignY=35&desc=binary%20whisperer%20%7C%20offensive%20security&descAlignY=55&descSize=20&descColor=8be9fd&animation=twinkling" width="100%"/>
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=root%40corvus%3A~%23+whoami;Reverse+Engineer+%2F%2F+Malware+Developer;Windows+Internals+%2F%2F+x86-x64+ASM;print(%22hello+from+Alexandria%2C+Egypt%22)" alt="Typing SVG" /></a>
 
