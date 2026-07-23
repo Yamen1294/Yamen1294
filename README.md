@@ -16,7 +16,7 @@
 
 ```ansi
 ┌──────────────────────────────────────────────────────────┐
-│  yamen                                                   │
+│  yamen@corvus                                            │
 │  ─────────────                                           │
 │  OS       : Arch Linux + Hyprland                        │
 │  Editor   : Neovim                                       │
@@ -167,21 +167,62 @@ Conversion utility across binary / octal / decimal / hex — built for quick low
 
 <div align="center">
 
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yamen1294&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
+## 🔩 Proficiency
 
 </div>
 
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Low-Level / Offensive**
+
+`C`
+![](https://progress-bar.xyz/70?title=&width=250&color=00ff9c&suffix=%25)
+
+`x86/x64 ASM`
+![](https://progress-bar.xyz/55?title=&width=250&color=00ff9c&suffix=%25)
+
+`Reverse Engineering`
+![](https://progress-bar.xyz/60?title=&width=250&color=00ff9c&suffix=%25)
+
+`Windows Internals`
+![](https://progress-bar.xyz/50?title=&width=250&color=00ff9c&suffix=%25)
+
+</td>
+<td width="50%" valign="top">
+
+**Development**
+
+`Python`
+![](https://progress-bar.xyz/80?title=&width=250&color=8be9fd&suffix=%25)
+
+`C# / .NET`
+![](https://progress-bar.xyz/65?title=&width=250&color=8be9fd&suffix=%25)
+
+`Linux / Shell`
+![](https://progress-bar.xyz/75?title=&width=250&color=8be9fd&suffix=%25)
+
+`Rust`
+![](https://progress-bar.xyz/25?title=&width=250&color=8be9fd&suffix=%25)
+
+</td>
+</tr>
+</table>
+
 <br>
+
+---
 
 <div align="center">
 
-### 🐍 Contribution Snake
+## 📌 Pinned Work
 
-<img src="https://raw.githubusercontent.com/Yamen1294/Yamen1294/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<a href="https://github.com/Yamen1294/Simple-bootloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yamen1294&repo=Simple-bootloader&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" /></a>
 
-<sub>⚠️ snake animation needs a one-time GitHub Action set up in your profile repo — see note below</sub>
+<a href="https://github.com/Yamen1294/Basic_Reverse_Shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yamen1294&repo=Basic_Reverse_Shell&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" /></a>
+
+<sub>⚠️ pin cards only render once the repo exists and is public — swap `repo=` names for your actual repo names</sub>
 
 </div>
 
